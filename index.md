@@ -2,13 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page.html
+layout: default
 ---
 
 <!DOCTYPE html>
   <html>
-    <title> Kevin's Portfolio </title>
-      <head>
+      <title> Kevin's Portfolio </title>
+  <head>
         <meta lang="en" meta-charset="UTC-8">
         <a link="css_portfolio.cs" rel="html/css" type="stylesheet.cs"></a>
       </head>
@@ -33,7 +33,7 @@ layout: page.html
             <li>JavaScript</li>
           </ol>
         </ul>
-            <img src=https://www.w3schools.com/>
+            <img src="https://www.w3schools.com"/>
             <a href="w3schools.com"></a>
               <div type="container" id="app-certs">
                 <div>
