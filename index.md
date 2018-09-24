@@ -5,7 +5,6 @@
 layout: default
 ---
 
-<!DOCTYPE html>
   <html>
       <title> Kevin's Portfolio </title>
   <head>
@@ -15,15 +14,7 @@ layout: default
         <body>
           <h2> Kevin Fisher </h2>
         <p> My name is Kevin Fisher, I am a computer programmer. I specialize in HTML5, CSS3 and JavaScript. My knowledge base has come from lessons on Codecademy.com, W3schools.com as well as various websites and books. With a background in sales mostly I hope to use my ability of customer services and communication to help translate ideas, and directions in developing sites, site content to build, design and deploy webpages that are easy to navigate, and aesthetically appealing to the viewer. While focusing on website design and development I have also gained vast knowledge in numerous programming languages including: Ruby, Ruby on Rails, Python, Git, Command Line, SaSS, AngularJS, ReactJS 1.x, SQL, Bash/shell, as well as Java, C++, and C#. Though I have no formal education my personal drive and motivation to become a successful computer programmer, with Web Development being my main career focus.</p>
-      <div type="nav-bar" id="navigation-bar">
-        <ul>
-          <ol>
-            <li>About me.</li>
-            <li>Projects</li>
-            <li>Extra Content</li>
-          </ol>
-        </ul>
-      </div>
+
       <div type="container" id="certs">
         <h5>Certification</h5>
         <ul>
@@ -54,5 +45,4 @@ layout: default
                   </div>
               <footer>
                 </footer>
-                    </body>
-                        </html>
+              
