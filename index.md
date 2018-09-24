@@ -43,6 +43,3 @@ layout: default
                       </ol>
                     </ul>
                   </div>
-              <footer>
-                </footer>
-              
