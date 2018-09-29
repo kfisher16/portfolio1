@@ -6,8 +6,8 @@ layout: default
 ---
 
   <html>
-      <title> Kevin's Portfolio </title>
   <head>
+    <title>Kevin's Portfolio</title>
         <meta lang="en" meta-charset="UTC-8">
         <a link="css_portfolio.cs" rel="html/css" type="stylesheet.cs"></a>
       </head>
