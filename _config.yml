@@ -24,7 +24,11 @@ github_username:  Kfisher16@github
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: page.html
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 681d9219f656bac1408d352a1fba5d39f5789b2b
 plugins: n/a
 
 # Exclude from processing.
