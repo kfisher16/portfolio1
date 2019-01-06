@@ -24,7 +24,7 @@ github_username:  Kfisher16@github
 
 # Build settings
 markdown: kramdown
-theme: default
+theme: de
 plugins: n/a
 
 # Exclude from processing.
@@ -38,4 +38,3 @@ plugins: n/a
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-#   - jekyll/page.html
