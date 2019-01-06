@@ -24,7 +24,7 @@ github_username:  Kfisher16@github
 
 # Build settings
 markdown: kramdown
-theme: de
+theme: default
 plugins: n/a
 
 # Exclude from processing.
