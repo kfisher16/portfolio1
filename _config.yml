@@ -24,7 +24,7 @@ github_username:  Kfisher16@github
 
 # Build settings
 markdown: kramdown
-theme: _posts/page.html
+theme: minima
 plugins:
   - jekyll-feed
 
