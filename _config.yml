@@ -18,7 +18,7 @@ email: kfisher16@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Kevin Fisher Personal Portfolio Site.
 baseurl: "https://github.com/kfisher16/personal-page/" # the subpath of your site, e.g. /blog
-url: "https://kevinfisher.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://kevinfisher.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KevinFi67144694@twitter
 github_username:  Kfisher16@github
 
