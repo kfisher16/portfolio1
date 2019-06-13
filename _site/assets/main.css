@@ -43,9 +43,6 @@ main {
 /**
  * Images
  */
-img {
-  max-width: 100%;
-  vertical-align: middle; }
 
 /**
  * Figures
@@ -75,6 +72,7 @@ h1, h2, h3, h4, h5, {
 /**
  * Links
  */
+ /*
 a {
   color: #2a7ae2;
   text-decoration: none; }
@@ -87,7 +85,7 @@ a {
     text-decoration: none; }
     .social-media-list a:hover .username {
       text-decoration: underline; }
-
+*/
 /**
  * Blockquotes
  */
