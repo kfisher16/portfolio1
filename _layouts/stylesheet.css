@@ -2,3 +2,6 @@ div {
 	display: inline-block;
 	border: solid;
 }
+h1 {
+position:absolute;
+}
