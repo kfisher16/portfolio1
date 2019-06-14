@@ -2,5 +2,6 @@ div {
 	border: solid;
 }
 h1 {
-position: absolute;
+
+margin: 100px;
 }

@@ -1,6 +1,7 @@
 /**
  * Reset some basic elements
  */
+ /*
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -10,6 +11,7 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+ /*
 body {
   font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #111;
@@ -27,6 +29,7 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
+ /*
 h1, h2, h3, h4, h5,
 p, blockquote, pre,
 ul, ol, dl, figure,
@@ -36,6 +39,7 @@ ul, ol, dl, figure,
 /**
  * `main` element
  */
+ /*
 main {
   display: block;
   /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
@@ -66,6 +70,7 @@ li > ol {
 /**
  * Headings
  */
+ /*
 h1, h2, h3, h4, h5, {
   font-weight: 400; }
 
