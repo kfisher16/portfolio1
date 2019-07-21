@@ -36,6 +36,7 @@ h5 {
   font-size: 20px;
   text-decoration: underline;
   color: darkgreen;
+  align-content: center;
 }
 
 .list2 {
@@ -68,4 +69,8 @@ h5 {
 footer {
 list-style-type:none;
 text-align: center;
+}
+
+li {
+  list-style: diamonds;
 }
