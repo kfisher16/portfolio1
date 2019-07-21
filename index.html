@@ -1,24 +1,18 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
----
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
     <head>
       <title> Kevin Fisher's Portfolio </title>
       <meta lang="en" meta-charset="UTC-8">
-      <link href="/home/kevinfisher/dev/github/kevinfisher/Portfolio/stylesheet.css" type="text/css" rel="stylesheet" />
+      <link rel="stylesheet" href="/assets/stylesheet.css" type="text/css"/>
     </head>
-    <body style="background:'background.jpg'; repeat: no-repeat;">
+    <body style="background-image: url('background.jpg');repeat: no-repeat">
+      <div class="wrapper">
         <h1>Kevin Fisher</h1>
-<img src="background.jpg" alt="background" style="height:50%; repeat: no-repeat;"/>
       <h3>About Me</h3>
-      <p style="text-align: justify; margin:  100px;"> My name is Kevin Fisher, I am a computer programmer. I specialize in HTML5, CSS3 and JavaScript. My knowledge base has come from lessons on Codecademy.com, W3schools.com as well as various websites and books.<br>
+      <p> My name is Kevin Fisher, I am a computer programmer. I specialize in HTML5, CSS3 and JavaScript. My knowledge base has come from lessons on Codecademy.com, W3schools.com as well as various websites and books.<br>
         With a background in sales mostly, with experience in customer services, communication and technology, I would like to translate ideas by designing, developing and creating site content. Designing and deploy webpages that are easy to navigate, and aesthetically appealing to the viewer is a hobby of mine. While focusing on website design and development I have also gained vast knowledge in numerous programming languages including: Ruby, Ruby on Rails, Python, Git, Command Line, SaSS, AngularJS, ReactJS 1.x, SQL, Bash/shell, as well as Java, C++, and C#. Web Development is my main career focus.</p>
-      <div style="display: inline-flex;flex-wrap:wrap;height: 200px; width: 200px;align-content:flex-start;justify-content:center;margin-left:150px;padding: auto auto">
-      <h5 style="font-size: 20px;text-decoration: underline;color: darkgreen;">Certifications</h5>
+      <div class="box-1">
+      <h5>Certifications</h5>
           <ul>
             <a>  <li>HTML</li></a>
               <a><li>CSS</li></a>
@@ -29,8 +23,8 @@ layout: default
                   <img src="w3cert.gif" alt="W3Schools" style=" width: 120px;"/></a>
                 </div>
             </div>
-                <div style="display: inline-flex;flex-wrap:wrap;align-content:space-around;align-content:flex-start; width: 250px; height: 360px;padding:20px 40px 20px 20px;">
-                <h5 style="text-decoration: underline;font-size: 20px;color: darkgreen;"> Solo Learn Application Certification & Achievements</h5>
+                <div class="list2">
+                <h5> Solo Learn Application Certification & Achievements</h5>
                 <ul>
                       <li>C++</li>
                       <li>HTML</li>
@@ -44,14 +38,14 @@ layout: default
                   </ul>
             </div>
             <footer>
-              <div style="list-style-type:none; text-align: center;">
+              <div id="footer">
               <h5>Contact Info</h5>
                 <li>450 Houston Rd. Coupeville WA 98239</li>
                 <li><a href="mailto:">Email -"Kfisher16@gmail.com"</a></li>
                 <li>Phone - (360)682-8541</li>
-                <li>
                 </div>
               </footer>
             </div>
+          </div>
                   </body>
                       </html>

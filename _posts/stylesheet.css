@@ -1,7 +1,71 @@
-div {
-	border: solid;
+body {
+  background: 'background.jpg';
+  repeat: no-repeat;
 }
-h1 {
 
-padding-left: 100px;
+.background {
+      background-img: src('background.jpg');
+      background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+    }
+
+img {
+  height: 50%;
+  repeat: no-repeat;
+}
+
+p {
+  text-align: justify;
+  margin: 100px;
+}
+
+div {
+  display: inline-flex;
+  flex-wrap: wrap;
+  height: 200px;
+  width: 200px;
+  align-content: flex-start;
+  justify-content: center;
+  margin-left: 150px;
+  padding: auto auto;
+}
+
+h5 {
+  font-size: 20px;
+  text-decoration: underline;
+  color: darkgreen;
+}
+
+.list2 {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-content:space-around;
+  align-content:flex-start;
+  width: 250px;
+  height: 360px;
+  padding:20px 40px 20px 20px;
+}
+
+h5 {
+  text-decoration: underline;
+  font-size: 20px;
+  color: darkgreen;
+}
+
+.box1 {
+  display: grid;
+  grid-column: 2;
+  border: solid;
+}
+
+#footer {
+  list-style-type:none;
+  text-align: center;
+}
+
+footer {
+list-style-type:none;
+text-align: center;
 }
