@@ -21,14 +21,7 @@ p {
 }
 
 div {
-  display: inline-flex;
-  flex-wrap: wrap;
-  height: 200px;
-  width: 200px;
-  align-content: flex-start;
-  justify-content: center;
-  margin-left: 150px;
-  padding: auto auto;
+  
 }
 
 h5 {
