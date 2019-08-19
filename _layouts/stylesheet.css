@@ -21,7 +21,7 @@ p {
 }
 
 div {
-  
+
 }
 
 h5 {
@@ -47,9 +47,7 @@ h5 {
 }
 
 .box1 {
-  display: grid;
-  grid-column: 2;
-  border: solid;
+
 }
 
 #footer {
