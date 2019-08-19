@@ -18,10 +18,11 @@ img {
 p {
   text-align: justify;
   margin: 100px;
+  color: yellow;
 }
 
 div {
-  font: red;
+  color: red;
 }
 
 h5 {
